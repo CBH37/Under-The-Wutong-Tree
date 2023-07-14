@@ -1,0 +1,12 @@
+log.txt
+traceback.txt
+errors.txt
+.vscode
+*.rpyc
+*.bak
+game/cache
+game/saves
+game/tl
+progressive_download.txt
+*.rpymc
+release

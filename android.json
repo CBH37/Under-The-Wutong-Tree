@@ -1,0 +1,24 @@
+{
+    "expansion": false,
+    "google_play_key": null,
+    "google_play_salt": null,
+    "heap_size": "3",
+    "icon_name": "\u68a7\u6850\u6811\u4e0b",
+    "include_pil": false,
+    "include_sqlite": false,
+    "layout": null,
+    "name": "\u68a7\u6850\u6811\u4e0b",
+    "numeric_version": 1,
+    "orientation": "sensorLandscape",
+    "package": "com.cbh37.utwt",
+    "permissions": [
+        "VIBRATE",
+        "INTERNET"
+    ],
+    "source": false,
+    "store": "all",
+    "update_always": true,
+    "update_icons": true,
+    "update_keystores": true,
+    "version": "0.1.0"
+}
